@@ -1,1 +1,1 @@
-SS/Pertemuan-1.png
+![alt text](SS/Pertemuan-1.png)
